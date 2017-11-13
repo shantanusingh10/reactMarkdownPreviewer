@@ -1,0 +1,36 @@
+#inputcontainer{
+	width: 350px;
+	height: 400px;
+	margin-left: 200px;
+	margin-top: 30px;
+	display: inline-block;
+}
+#input{
+	font-size: 20px;
+	font-weight: 600;
+	margin-bottom: 20px;
+	display: inline-block;
+}
+textarea{
+	width: 350px;
+	height: 400px;
+	display: inline;	
+}
+#heading1{
+	text-align: center;
+}
+
+
+#outputcontainer{
+	display: inline;
+	margin-left: 50px;
+	height: 400px;
+	width: 350px;
+	float: right;
+	margin-top: 25px;
+	margin-right: 300px;
+}
+#output{
+	font-size: 20px;
+	font-weight: 600;
+}
